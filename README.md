@@ -42,15 +42,13 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 The operational architecture will have an evaluation plan, but this has not yet been developed. 
 
 ## Education
-The operational architecture does not intend to have any educational attributes. The Admin core as a whole will be responsible for educational engagement. 
+The operational architecture per se does not intend to have any educational attributes. The Admin core as a whole will be responsible for educational engagement as it cross-cuts several projects in different ways. 
 
 ## Get involved
-
-The operational architecture does not intend to have any engagement. The Admin core as a whole will be developing a robust engagement plan. 
+The operational architecture does not intend to have any outside engagement. The Admin core as a whole will be developing a robust engagement plan. 
 
 ## Working documents
-
-We don't yet have a google drive, please use Github.
+Documents for this effort primarily reside in Github; however, a google drive folder is [here](https://drive.google.com/drive/u/0/folders/13c-PzAYryBD88caoJsEoY-t_FEsnmT5d).
 
 ## Slack channel
 Please use the internal operations slack channel. 
