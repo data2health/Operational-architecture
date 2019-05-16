@@ -5,7 +5,7 @@ An internal project aimed at developing single source of truth workflows for pro
 It is difficult to track what is going on in CD2H, to see progress, to understand impact or outcomes. 
 
 ## Project description
-This project aims to create a variety of dashboard views and data feeds to help both technical and non-technical team members, community members, and NCATs readily see what is happening in CD2H and navigate to the information of most interest or salient use to them. 
+This project aims to create a variety of dashboard views and data feeds to help both technical and non-technical team members, community members, and NCATS readily see what is happening in CD2H and navigate to the information of most interest or salient use to them. 
 
 ## Contact person
 
@@ -26,9 +26,9 @@ David Eichmann (eichmann) | UIOWA
 
 ## Team members 
 
-No action required here, a list of team members will be imported and linked below.
+A list of team members will be imported and linked below.
 
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+See https://github.com/data2health/Operational-architecture/tree/master/team.md
 
 
 ## Deliverables
