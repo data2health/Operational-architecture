@@ -20,9 +20,9 @@ Project scientific leadership, should be 1-3 persons.
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-David Eichmann (eichmann) | UIOWA 
+Julie McMurry (@jmcmurry) | OHSU 
 Melissa Haendel (@mellybelly) | OHSU
-
+David Eichmann (eichmann) | UIOWA 
 
 ## Team members 
 
@@ -36,7 +36,7 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 - Dashboard overview of all past and current CD2H projects, with their milestones and milestone progress indicated
 - Information feed to the CD2H website, highlighting to non-technical users what CD2H is working on
 - Content feeds for newsletter and RPPR population
-
+- NCATS Gsuite launched for CD2H 
 
 ## Evaluation
 The operational architecture will have an evaluation plan, but this has not yet been developed. 
