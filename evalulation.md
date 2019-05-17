@@ -6,10 +6,10 @@ Towards this end, we anticipate performing the following evaluation activities:
 Functionality:
 We will evaluate the functionality of the deliverables as follows:
 
-Deliverable | Functionality | Quality & Satisfaction | Enhancements
+Deliverable | Functionality | Quality & Satisfaction | Enhancements 
 -- | -- | -- 
-Dashboard overview | Contains all past and current CD2H projects; milestones and milestone progress indicated; percent tickets | at least monthly improvements are made, such as adding contributors, improved mid-level navigation/display, feeds to website, etc. |
-Information feed to the CD2H website | highlighting to non-technical users what CD2H is working on
+Dashboard overview | Contains all past and current CD2H projects; milestones and milestone progress indicated; percent tickets | Short survey to garner internal feedback | at least monthly improvements are made, such as adding contributors, improved mid-level navigation/display, feeds to website, etc. 
+CD2H website | contains regular information feeds from projects and onboarding information, allows navigation to Github and Gsuite | CD2H "bang on it" sessions; iDTF and NCATS site review | 
 Content feeds | for newsletter and RPPR population
 Gsuite | CD2H staff onboarded to NCATS Gsuite and key/current CD2H content migrated and organized
 
