@@ -15,6 +15,13 @@ The main methods are the combined use of Github for project tracking and communi
 * Content feeds for newsletter and RPPR population
 * All CD2H paid staff onboarded to NCATS Gsuite; key/current CD2H content migrated and organized; stretch goal: community members also onboarded
 
+# Deliverables
+
+- Dashboard overview of all past and current CD2H projects, with their milestones and milestone progress indicated
+- Information feed to the CD2H website, highlighting to non-technical users what CD2H is working on
+- Content feeds for newsletter and RPPR population
+- CD2H staff onboarded to NCATS Gsuite and key/current CD2H content migrated and organized
+
 # Timeline (monthly)
 * 6/1 - Dashboard overview of all past and current CD2H projects, with their milestones and milestone progress indicated
 * 7/1 - New website design requirements complete, website technology chosen
