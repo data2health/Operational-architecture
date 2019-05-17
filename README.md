@@ -39,7 +39,7 @@ See https://github.com/data2health/Operational-architecture/tree/master/team.md
 - CD2H staff onboarded to NCATS Gsuite and key/current CD2H content migrated and organized
 
 ## Evaluation
-The operational architecture will have an evaluation plan, but this has not yet been developed. 
+The operational architecture evaluation plan is [here](https://github.com/data2health/Operational-architecture/blob/master/evalulation.md)  
 
 ## Education
 The operational architecture per se does not intend to have any educational attributes. The Admin core as a whole will be responsible for educational engagement as it cross-cuts several projects in different ways. 
