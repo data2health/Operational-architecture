@@ -36,7 +36,7 @@ See https://github.com/data2health/Operational-architecture/tree/master/team.md
 - Dashboard overview of all past and current CD2H projects, with their milestones and milestone progress indicated
 - Information feed to the CD2H website, highlighting to non-technical users what CD2H is working on
 - Content feeds for newsletter and RPPR population
-- NCATS Gsuite launched for CD2H 
+- CD2H staff onboarded to NCATS Gsuite and key/current CD2H content migrated and organized
 
 ## Evaluation
 The operational architecture will have an evaluation plan, but this has not yet been developed. 
